@@ -9,7 +9,7 @@ The goal of this project is to:
 - Analyze customer tipping behavior
 - Predict the **tip amount** using regression techniques
 - Classify customers into categories based on their attributes
-
+cvbb
 The project uses Python data-science libraries and is implemented in a single Jupyter Notebook.
 
 ## 📂 Files in the Repository
