@@ -8,7 +8,7 @@ The notebook covers data loading, exploratory data analysis (EDA), preprocessing
 The goal of this project is to:
 - Analyze customer tipping behavior
 - Predict the **tip amount** using regression techniques
-- Classify customers into categories based on their attributes
+- Classify customers into categories based on their attributesfvbnnbccc
 cvbb
 The project uses Python data-science libraries and is implemented in a single Jupyter Notebook.
 
